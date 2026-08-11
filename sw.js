@@ -1,7 +1,7 @@
 // Service worker for offline support of the kindergarten mapping tool.
 // Caches the app shell on first load so it keeps working without internet.
 
-var CACHE_NAME = "kg-mapping-cache-v7";
+var CACHE_NAME = "kg-mapping-cache-v8";
 var CORE_ASSETS = [
   "./",
   "./index.html",
